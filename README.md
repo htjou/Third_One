@@ -6,3 +6,6 @@
   - ### a1 a2
 - ## ![folder](./manuals_and_demos/sfolder.png)&nbsp;TF2.3_Keras_MNIST
 - ## ![folder](./manuals_and_demos/sfolder.png)&nbsp;torch_MNIST
+
+display(HTML("<img src='./manuals_and_demos/sfolder.png'>aa<img src='./manuals_and_demos/sfolder.png'>"))
+
